@@ -1,50 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- Main Catalog Pages -->
-  <url>
-    <loc>https://mehranbaig309-jpg.github.io/index.html</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://mehranbaig309-jpg.github.io/page2.html</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://mehranbaig309-jpg.github.io/page3.html</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://mehranbaig309-jpg.github.io/blog.html</loc>
-    <priority>0.9</priority>
-  </url>
+  <!-- Main Navigation -->
+  <url><loc>https://mehranbaig309-jpg.github.io/index.html</loc><priority>1.0</priority></url>
+  <url><loc>https://mehranbaig309-jpg.github.io/page2.html</loc><priority>0.9</priority></url>
+  <url><loc>https://mehranbaig309-jpg.github.io/page3.html</loc><priority>0.9</priority></url>
+  <url><loc>https://mehranbaig309-jpg.github.io/blog.html</loc><priority>0.8</priority></url>
+  <url><loc>https://mehranbaig309-jpg.github.io/ai-news.html</loc><priority>0.8</priority></url>
+  <url><loc>https://mehranbaig309-jpg.github.io/generate.html</loc><priority>0.8</priority></url>
 
-  <!-- Trending Blog Posts -->
-  <url>
-    <loc>https://mehranbaig309-jpg.github.io/blog-windsurf-vs-cursor.html</loc>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://mehranbaig309-jpg.github.io/blog-ai-coding-agents.html</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://mehranbaig309-jpg.github.io/blog-ai-tools-for-students.html</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://mehranbaig309-jpg.github.io/blog-free-ai-tools.html</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://mehranbaig309-jpg.github.io/blog-how-to-use-claude-ai.html</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://mehranbaig309-jpg.github.io/blog-latest-ai-coding-releases.html</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://mehranbaig309-jpg.github.io/blog-chatgpt-en.html</loc>
-    <priority>0.7</priority>
-  </url>
+  <!-- Comparison Blogs -->
+  <url><loc>https://mehranbaig309-jpg.github.io/blog-windsurf-vs-cursor.html</loc><priority>0.7</priority></url>
+  <url><loc>https://mehranbaig309-jpg.github.io/blog-v0-vs-bolt.html</loc><priority>0.7</priority></url>
+  <url><loc>https://mehranbaig309-jpg.github.io/blog-ai-coding-agents.html</loc><priority>0.7</priority></url>
+
+  <!-- Guides & Info -->
+  <url><loc>https://mehranbaig309-jpg.github.io/blog-ai-tools-for-students.html</loc><priority>0.6</priority></url>
+  <url><loc>https://mehranbaig309-jpg.github.io/blog-free-ai-tools.html</loc><priority>0.6</priority></url>
+  <url><loc>https://mehranbaig309-jpg.github.io/blog-how-to-use-claude-ai.html</loc><priority>0.6</priority></url>
 </urlset>
